@@ -1,6 +1,7 @@
 rainbow and Unicorn
 yellow 
-
+gray
+tarquise
 purple 
 pink 
 orannge
